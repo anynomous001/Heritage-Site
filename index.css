@@ -163,7 +163,7 @@ button:hover {
 /*footer*/
 footer h4 {
 
-    font-size: 0.125rem;
+    font-size: 1rem;
     margin-top: 1em;
     font-weight: 500;
     color: rgba(34, 87, 122, 0.6);
@@ -264,7 +264,7 @@ footer {
     }
 
     footer h4 {
-        font-size: 1.25rem;
+        font-size: 2.25rem;
         margin-top: 1em;
         margin-bottom: 0;
     }
